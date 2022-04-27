@@ -114,7 +114,7 @@ nav {
 
 .hero-img {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("./assets/img/design.jpg");
+    url("https://giaxle.github.io/portfolio-template/assets/img/design.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -432,7 +432,7 @@ nav {
   justify-content: center;
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(/assets/img/contact-background.jpg);
+    url(https://giaxle.github.io/portfolio-template/assets/img/contact-background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
